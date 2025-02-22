@@ -1,1 +1,6 @@
 olá, mundo
+
+arroz
+peixe 
+chocolate
+flango
